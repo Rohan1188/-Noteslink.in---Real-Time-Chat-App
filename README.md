@@ -8,7 +8,8 @@ A modern, minimalistic real-time group chat application built with **HTML**, **C
 
 Deployment : https://noteslink-in-real-time-chat-app.vercel.app/
 
- Preview: ![Uploading image.png…]()
+ Preview: ![image](https://github.com/user-attachments/assets/20da3735-6e52-40e6-acdc-0d6abea6744d)
+
 
 
  
