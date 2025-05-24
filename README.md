@@ -6,7 +6,12 @@ A modern, minimalistic real-time group chat application built with HTML, CSS, an
 
 A modern, minimalistic real-time group chat application built with **HTML**, **CSS**, and **JavaScript**, powered by **Firebase** for authentication and Firestore for message storage.
 
+Deployment : https://noteslink-in-real-time-chat-app.vercel.app/
 
+ Preview: ![Uploading image.png…]()
+
+
+ 
 ## 🚀 Features
 
 * 🔐 Google Sign-In authentication
